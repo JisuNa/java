@@ -1,6 +1,6 @@
 package main;
 
-public class implicitConversion {
+public class ImplicitConversion {
     public static void main(String[] args) {
 
         byte a = 10;
